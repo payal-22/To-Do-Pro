@@ -20,11 +20,11 @@ Delete: Remove tasks you no longer need.
 
 
 ## Getting Started 
-1. Clone the repository
-   https://github.com/payal-22/To-Do-Pro.git
+1. Clone the repository : 
+https://github.com/payal-22/To-Do-Pro.git
 
-2. Install dependencies
-   flutter pub get
+2. Install dependencies : 
+flutter pub get
    
-3. Run the app
-   flutter run
+3. Run the app : 
+flutter run
